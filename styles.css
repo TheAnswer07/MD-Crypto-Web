@@ -43,7 +43,7 @@ nav ul li a {
     font-weight: 100%;
 }
 
-nav.btn {
+nav .btn {
     color: white;
     text-decoration: none;
     border: 1px solid white;
@@ -107,3 +107,4 @@ nav.btn {
 color: white;
 margin-bottom: 5px;
 }
+
